@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">mobilki1</string>
+    <string name="appwidget_text">EXAMPLE</string>
+    <string name="add_widget">Add widget</string>
+    <string name="app_widget_description">This is an app widget description</string>
+    <string name="aboutDeveloper">РПОдМП 1\nТурок Кирилл\n951005</string>
+    <string name="satiety">Satiety</string>
+    <string name="feed">Feed</string>
+</resources>
